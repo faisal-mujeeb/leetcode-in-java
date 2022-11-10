@@ -1,2 +1,2 @@
 Q69 of leetcode of square root uses BINARY SEARCH
-in binary tree they are solve by 2 methods(Recursive and iterative or level order method)
+in binary tree they are solve by 2 methods(Recursive and iterative or level order method) { In left/right view Q it will be solve using Recursive TC-> 0(N) and SC->0(H)}
