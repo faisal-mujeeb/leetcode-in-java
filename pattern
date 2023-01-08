@@ -2,3 +2,4 @@ Q69 of leetcode of square root uses BINARY SEARCH
 in binary tree they are solve by 2 methods(Recursive and iterative or level order method) { In left/right view Q it will be solve using Recursive TC-> 0(N) and SC->0(H)}
 Kadane algorithm is the optimized way to solve the Max. sum contiguos subarray {Q53 leetcode}
 Linked list {reverse the linkedlist , cycle detection}
+dp prob with aaditya verma
