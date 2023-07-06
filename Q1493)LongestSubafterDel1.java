@@ -18,7 +18,7 @@ class Solution {
                     }
                     left++;
                 }
-                ans = Math.max(ans, rigth-left+1-zeros);
+                ans = Math.max(ans, right-left+1-zeros);
             }
             return (ans==n)?ans-1:ans;
     }
